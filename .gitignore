@@ -3,3 +3,9 @@ gym-learn/src/q_learning/q_learning_resulttrain_rewards_curve.png
 gym-learn/src/q_learning/__pycache__
 gym-learn/src/q_learning/q_learning_modelQ_table.npy
 .vscode
+gym-learn/src/deep_q/__pycache__/main.cpython-38.pyc
+gym-learn/src/deep_q/__pycache__/utils.cpython-38.pyc
+gym-learn/src/deep_q/__pycache__/agent.cpython-38.pyc
+gym-learn/src/deep_q/dqn_resulttrain_rewards_curve.png
+gym-learn/src/deep_q/dqn_resulteval_rewards_curve.png
+gym-learn/src/deep_q/dqn_modeldqn_checkpoint.pth
